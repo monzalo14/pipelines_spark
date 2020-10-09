@@ -1,0 +1,9 @@
+# Files and extensions to be ignored
+# IPython Checkpoints
+.ipynb_checkpoints/
+
+# Virtualenv binaries
+env/
+
+# Draft outline
+outline.md
